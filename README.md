@@ -1,5 +1,5 @@
-Contents of the repository:
+**Contents of the repository:**
 
-**data folder** : Contains all the required data
+  **data folder** : Contains all the required data
 
-**notebook folder** : Contains the jupyter notebook to be used
+  **notebook folder** : Contains the jupyter notebook to be used
